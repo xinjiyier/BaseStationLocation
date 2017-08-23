@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CellIdBSId</string>
+    <string name="no_id_get">暂时没有获取 id</string>
+    <string name="get_cellid">获取数据</string>
+    <string name="get_basestation_id">获取基站id</string>
+    <string name="get_address">从网络获取结果</string>
+</resources>
